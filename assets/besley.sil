@@ -1,0 +1,29 @@
+\begin{document}
+\neverindent
+\font[filename=fonts/ttf/Besley-Regular.ttf, features=+smcp, size=3em]{Besley*}\glue[width=2em]\font[filename=fonts/ttf/Besley-Italic.ttf, features=+smcp, size=3em]{Besley*}
+
+\font[filename=fonts/ttf/Besley-Medium.ttf, features=+smcp, size=3em]{Besley*}\glue[width=2em]\font[filename=fonts/ttf/Besley-MediumItalic.ttf, features=+smcp, size=3em]{Besley*}
+
+\font[filename=fonts/ttf/Besley-SemiBold.ttf, features=+smcp, size=3em]{Besley*}\glue[width=2em]\font[filename=fonts/ttf/Besley-SemiBoldItalic.ttf, features=+smcp, size=3em]{Besley*}
+
+\font[filename=fonts/ttf/Besley-Bold.ttf, features=+smcp, size=3em]{Besley*}\glue[width=2em]\font[filename=fonts/ttf/Besley-BoldItalic.ttf, features=+smcp, size=3em]{Besley*}
+
+\font[filename=fonts/ttf/Besley-ExtraBold.ttf, features=+smcp, size=3em]{Besley*}\glue[width=2em]\font[filename=fonts/ttf/Besley-ExtraBoldItalic.ttf, features=+smcp, size=3em]{Besley*}
+
+\font[filename=fonts/ttf/Besley-Black.ttf, features=+smcp, size=3em]{Besley*}\glue[width=2em]\font[filename=fonts/ttf/Besley-BlackItalic.ttf, features=+smcp, size=3em]{Besley*}
+
+\bigskip\bigskip\bigskip
+
+\font[filename=fonts/ttf/Besley-Regular.ttf, features=+smcp, size=3em]{Ping-pong}\glue[width=2em]\font[filename=fonts/ttf/Besley-Italic.ttf, features=+smcp, size=3em]{Ping-pong}
+
+\font[filename=fonts/ttf/Besley-Medium.ttf, features=+smcp, size=3em]{Ping-pong}\glue[width=2em]\font[filename=fonts/ttf/Besley-MediumItalic.ttf, features=+smcp, size=3em]{Ping-pong}
+
+\font[filename=fonts/ttf/Besley-SemiBold.ttf, features=+smcp, size=3em]{Ping-pong}\glue[width=2em]\font[filename=fonts/ttf/Besley-SemiBoldItalic.ttf, features=+smcp, size=3em]{Ping-pong}
+
+\font[filename=fonts/ttf/Besley-Bold.ttf, features=+smcp, size=3em]{Ping-pong}\glue[width=2em]\font[filename=fonts/ttf/Besley-BoldItalic.ttf, features=+smcp, size=3em]{Ping-pong}
+
+\font[filename=fonts/ttf/Besley-ExtraBold.ttf, features=+smcp, size=3em]{Ping-pong}\glue[width=2em]\font[filename=fonts/ttf/Besley-ExtraBoldItalic.ttf, features=+smcp, size=3em]{Ping-pong}
+
+\font[filename=fonts/ttf/Besley-Black.ttf, features=+smcp, size=3em]{Ping-pong}\glue[width=2em]\font[filename=fonts/ttf/Besley-BlackItalic.ttf, features=+smcp, size=3em]{Ping-pong}
+\end{document}
+
