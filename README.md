@@ -41,7 +41,3 @@ Download the complete source code, either by cloning this repository or download
 Download and install fontmake which can be found [here](https://github.com/googlei18n/fontmake).
 
 Build your preferred version of the font by running the corresponding build file found in the "scripts" folder. For example running  `build-variable.sh` will build the variable version of the font. To toggle between the standard naming conventions and the indestructible type* naming conventions run the `toggle.sh` script found in the "misc" folder.
-
-Contact
--------
-If you have questions or want to help out, send me and email at indestructibletype@gmail.com
