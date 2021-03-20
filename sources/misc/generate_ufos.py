@@ -3,10 +3,10 @@
 import fontforge
 
 FONTS = {
-    "fontforge/Book.sfd": "UFO/Besley-Regular.ufo",
-#   "fontforge/Book Italic.sfd": "UFO/Besley-Italic.ufo",
-    "fontforge/Fatface.sfd": "UFO/Besley-Black.ufo",
-#   "fontforge/Fatface Italic.sfd": "UFO/Besley-Italic.ufo"
+#   "fontforge/Book.sfd": "UFO/Besley-Regular.ufo",
+    "fontforge/Book Italic.sfd": "UFO/Besley-Italic.ufo",
+#   "fontforge/Fatface.sfd": "UFO/Besley-Black.ufo",
+    "fontforge/Fatface Italic.sfd": "UFO/Besley-BlackItalic.ufo"
 }
 
 ARGS = ("opentype","no-hints","omit-instructions")

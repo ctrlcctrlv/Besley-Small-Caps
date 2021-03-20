@@ -1136,5 +1136,7 @@
     <string>uni1E_89.sc.glif</string>
     <key>ygrave.sc</key>
     <string>ygrave.sc.glif</string>
+    <key>hyphen.sc</key>
+    <string>hyphen.sc.glif</string>
   </dict>
 </plist>

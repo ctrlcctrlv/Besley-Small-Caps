@@ -5,7 +5,6 @@ languagesystem latn dflt;
 
 # GSUB 
 
-
 lookup smcpLowercasetoSmallCapitalsinLatinlookup0 {
   lookupflag 0;
     sub \a by \a.sc ;
@@ -1216,7 +1215,8 @@ feature kern {
 	\uni0163.sc \tcaron.sc \utilde.sc \umacron.sc \ubreve.sc \uring.sc 
 	\uhungarumlaut.sc \uogonek.sc \wcircumflex.sc \ycircumflex.sc \ydieresis.sc 
 	\zacute.sc \zdotaccent.sc \zcaron.sc \uni0213.sc \uni0219.sc \uni021B.sc 
-	\wgrave.sc \wacute.sc \wdieresis.sc \uni1E87.sc \uni1E89.sc \ygrave.sc ];
+	\wgrave.sc \wacute.sc \wdieresis.sc \uni1E87.sc \uni1E89.sc \ygrave.sc 
+	\hyphen.sc ];
 @GDEF_Ligature = [\uniFB00 \uniFB01 \uniFB02 \uniFB03 \uniFB04 ];
 @GDEF_Mark = [\uni030C.alt \gravecomb \acutecomb \uni0302 \tildecomb \uni0304 
 	\uni0306 \uni0307 \uni0308 \uni030A \uni030B \uni030C \uni0311 \uni0312 
@@ -1227,4 +1227,12 @@ table GDEF {
   GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
 
 } GDEF;
+
+@sc = [a.sc b.sc c.sc d.sc e.sc f.sc g.sc h.sc i.sc j.sc k.sc l.sc m.sc n.sc o.sc p.sc q.sc r.sc s.sc t.sc u.sc v.sc w.sc x.sc y.sc z.sc agrave.sc aacute.sc acircumflex.sc atilde.sc adieresis.sc aring.sc ccedilla.sc egrave.sc eacute.sc ecircumflex.sc edieresis.sc igrave.sc iacute.sc icircumflex.sc idieresis.sc ntilde.sc ograve.sc oacute.sc ocircumflex.sc otilde.sc odieresis.sc ugrave.sc uacute.sc ucircumflex.sc udieresis.sc yacute.sc amacron.sc abreve.sc aogonek.sc cacute.sc ccircumflex.sc cdotaccent.sc ccaron.sc dcaron.sc emacron.sc ebreve.sc edotaccent.sc eogonek.sc ecaron.sc gcircumflex.sc gbreve.sc gdotaccent.sc uni0123.sc hcircumflex.sc itilde.sc imacron.sc ibreve.sc iogonek.sc idotaccent.sc jcircumflex.sc uni0137.sc lacute.sc uni013C.sc lcaron.sc nacute.sc uni0146.sc ncaron.sc omacron.sc obreve.sc ohungarumlaut.sc racute.sc uni0157.sc rcaron.sc sacute.sc scircumflex.sc scedilla.sc scaron.sc uni0163.sc tcaron.sc utilde.sc umacron.sc ubreve.sc uring.sc uhungarumlaut.sc uogonek.sc wcircumflex.sc ycircumflex.sc ydieresis.sc zacute.sc zdotaccent.sc zcaron.sc uni0213.sc uni0219.sc uni021B.sc wgrave.sc wacute.sc wdieresis.sc uni1E87.sc uni1E89.sc ygrave.sc hyphen.sc];
+
+feature calt {
+	lookup SCHyphen {
+		sub @sc hyphen' by hyphen.sc;
+	} SCHyphen;
+} calt;
 
