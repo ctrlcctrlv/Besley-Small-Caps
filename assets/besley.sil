@@ -1,4 +1,5 @@
 \begin{document}
+\nofolios
 \neverindent
 \font[filename=fonts/ttf/Besley-Regular.ttf, features=+smcp, size=3em]{Besley*}\glue[width=2em]\font[filename=fonts/ttf/Besley-Italic.ttf, features=+smcp, size=3em]{Besley*}
 
@@ -14,16 +15,27 @@
 
 \bigskip\bigskip\bigskip
 
-\font[filename=fonts/ttf/Besley-Regular.ttf, features=+smcp, size=3em]{Ping-pong}\glue[width=2em]\font[filename=fonts/ttf/Besley-Italic.ttf, features=+smcp, size=3em]{Ping-pong}
+\font[filename=fonts/ttf/Besley-Regular.ttf, features=+smcp, size=3em]{Small-caps*}\glue[width=2em]\font[filename=fonts/ttf/Besley-Italic.ttf, features=+smcp, size=3em]{Small-caps*}
 
-\font[filename=fonts/ttf/Besley-Medium.ttf, features=+smcp, size=3em]{Ping-pong}\glue[width=2em]\font[filename=fonts/ttf/Besley-MediumItalic.ttf, features=+smcp, size=3em]{Ping-pong}
+\font[filename=fonts/ttf/Besley-Medium.ttf, features=+smcp, size=3em]{Small-caps*}\glue[width=2em]\font[filename=fonts/ttf/Besley-MediumItalic.ttf, features=+smcp, size=3em]{Small-caps*}
 
-\font[filename=fonts/ttf/Besley-SemiBold.ttf, features=+smcp, size=3em]{Ping-pong}\glue[width=2em]\font[filename=fonts/ttf/Besley-SemiBoldItalic.ttf, features=+smcp, size=3em]{Ping-pong}
+\font[filename=fonts/ttf/Besley-SemiBold.ttf, features=+smcp, size=3em]{Small-caps*}\glue[width=2em]\font[filename=fonts/ttf/Besley-SemiBoldItalic.ttf, features=+smcp, size=3em]{Small-caps*}
 
-\font[filename=fonts/ttf/Besley-Bold.ttf, features=+smcp, size=3em]{Ping-pong}\glue[width=2em]\font[filename=fonts/ttf/Besley-BoldItalic.ttf, features=+smcp, size=3em]{Ping-pong}
+\font[filename=fonts/ttf/Besley-Bold.ttf, features=+smcp, size=3em]{Small-caps*}\glue[width=2em]\font[filename=fonts/ttf/Besley-BoldItalic.ttf, features=+smcp, size=3em]{Small-caps*}
 
-\font[filename=fonts/ttf/Besley-ExtraBold.ttf, features=+smcp, size=3em]{Ping-pong}\glue[width=2em]\font[filename=fonts/ttf/Besley-ExtraBoldItalic.ttf, features=+smcp, size=3em]{Ping-pong}
+\font[filename=fonts/ttf/Besley-ExtraBold.ttf, features=+smcp, size=3em]{Small-caps*}\glue[width=2em]\font[filename=fonts/ttf/Besley-ExtraBoldItalic.ttf, features=+smcp, size=3em]{Small-caps*}
 
-\font[filename=fonts/ttf/Besley-Black.ttf, features=+smcp, size=3em]{Ping-pong}\glue[width=2em]\font[filename=fonts/ttf/Besley-BlackItalic.ttf, features=+smcp, size=3em]{Ping-pong}
+\font[filename=fonts/ttf/Besley-Black.ttf, features=+smcp, size=3em]{Small-caps*}\glue[width=2em]\font[filename=fonts/ttf/Besley-BlackItalic.ttf, features=+smcp, size=3em]{Small-caps*}
+
+\bigskip\bigskip\bigskip
+\font[size=1.75em]
+
+\font[filename=fonts/ttf/Besley-Regular.ttf, features=+smcp]{Aa} \font[filename=fonts/ttf/Besley-Italic.ttf, features=+smcp]{Aa} \font[filename=fonts/ttf/Besley-Medium.ttf, features=+smcp]{Aa} \font[filename=fonts/ttf/Besley-MediumItalic.ttf, features=+smcp]{Aa} \font[filename=fonts/ttf/Besley-SemiBold.ttf, features=+smcp]{Aa} \font[filename=fonts/ttf/Besley-SemiBoldItalic.ttf, features=+smcp]{Aa} \font[filename=fonts/ttf/Besley-Bold.ttf, features=+smcp]{Aa} \font[filename=fonts/ttf/Besley-BoldItalic.ttf, features=+smcp]{Aa} \font[filename=fonts/ttf/Besley-ExtraBold.ttf, features=+smcp]{Aa} \font[filename=fonts/ttf/Besley-ExtraBoldItalic.ttf, features=+smcp]{Aa} \font[filename=fonts/ttf/Besley-Black.ttf, features=+smcp]{Aa} \font[filename=fonts/ttf/Besley-BlackItalic.ttf, features=+smcp]{Aa}
+
+\font[filename=fonts/ttf/Besley-Regular.ttf, features=+smcp]{Gg} \font[filename=fonts/ttf/Besley-Italic.ttf, features=+smcp]{Gg} \font[filename=fonts/ttf/Besley-Medium.ttf, features=+smcp]{Gg} \font[filename=fonts/ttf/Besley-MediumItalic.ttf, features=+smcp]{Gg} \font[filename=fonts/ttf/Besley-SemiBold.ttf, features=+smcp]{Gg} \font[filename=fonts/ttf/Besley-SemiBoldItalic.ttf, features=+smcp]{Gg} \font[filename=fonts/ttf/Besley-Bold.ttf, features=+smcp]{Gg} \font[filename=fonts/ttf/Besley-BoldItalic.ttf, features=+smcp]{Gg} \font[filename=fonts/ttf/Besley-ExtraBold.ttf, features=+smcp]{Gg} \font[filename=fonts/ttf/Besley-ExtraBoldItalic.ttf, features=+smcp]{Gg} \font[filename=fonts/ttf/Besley-Black.ttf, features=+smcp]{Gg} \font[filename=fonts/ttf/Besley-BlackItalic.ttf, features=+smcp]{Gg}
+
+\font[filename=fonts/ttf/Besley-Regular.ttf, features=+smcp]{Qq} \font[filename=fonts/ttf/Besley-Italic.ttf, features=+smcp]{Qq} \font[filename=fonts/ttf/Besley-Medium.ttf, features=+smcp]{Qq} \font[filename=fonts/ttf/Besley-MediumItalic.ttf, features=+smcp]{Qq} \font[filename=fonts/ttf/Besley-SemiBold.ttf, features=+smcp]{Qq} \font[filename=fonts/ttf/Besley-SemiBoldItalic.ttf, features=+smcp]{Qq} \font[filename=fonts/ttf/Besley-Bold.ttf, features=+smcp]{Qq} \font[filename=fonts/ttf/Besley-BoldItalic.ttf, features=+smcp]{Qq} \font[filename=fonts/ttf/Besley-ExtraBold.ttf, features=+smcp]{Qq} \font[filename=fonts/ttf/Besley-ExtraBoldItalic.ttf, features=+smcp]{Qq} \font[filename=fonts/ttf/Besley-Black.ttf, features=+smcp]{Qq} \font[filename=fonts/ttf/Besley-BlackItalic.ttf, features=+smcp]{Qq}
+
+\font[filename=fonts/ttf/Besley-Regular.ttf, features=+smcp]{Rr} \font[filename=fonts/ttf/Besley-Italic.ttf, features=+smcp]{Rr} \font[filename=fonts/ttf/Besley-Medium.ttf, features=+smcp]{Rr} \font[filename=fonts/ttf/Besley-MediumItalic.ttf, features=+smcp]{Rr} \font[filename=fonts/ttf/Besley-SemiBold.ttf, features=+smcp]{Rr} \font[filename=fonts/ttf/Besley-SemiBoldItalic.ttf, features=+smcp]{Rr} \font[filename=fonts/ttf/Besley-Bold.ttf, features=+smcp]{Rr} \font[filename=fonts/ttf/Besley-BoldItalic.ttf, features=+smcp]{Rr} \font[filename=fonts/ttf/Besley-ExtraBold.ttf, features=+smcp]{Rr} \font[filename=fonts/ttf/Besley-ExtraBoldItalic.ttf, features=+smcp]{Rr} \font[filename=fonts/ttf/Besley-Black.ttf, features=+smcp]{Rr} \font[filename=fonts/ttf/Besley-BlackItalic.ttf, features=+smcp]{Rr}
+
 \end{document}
-
