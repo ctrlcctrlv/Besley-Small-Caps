@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<glyph name="cdotaccent" format="2">
+  <unicode hex="010B" /><advance width="1373" />
+  <outline>
+    <component base="uni0307" xOffset="279.13" yOffset="-123" />
+    <component base="c" />
+  </outline>
+</glyph>

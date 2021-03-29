@@ -4,6 +4,8 @@ set -e
 
 fontName="Besley"
 fontName_it="Besley-Italic"
+fontName_sc="BesleySC"
+fontName_scit="BesleySC-Italic"
 axes="wght"
 
 ##########################################
@@ -17,6 +19,8 @@ mkdir -p $VF_DIR
 
 fontmake -m designspace/$fontName.designspace -o variable --output-path $VF_DIR/$fontName[$axes].ttf
 fontmake -m designspace/$fontName_it.designspace -o variable --output-path $VF_DIR/$fontName_it[$axes].ttf
+fontmake -m designspace/$fontName_sc.designspace -o variable --output-path $VF_DIR/$fontName_sc[$axes].ttf
+fontmake -m designspace/$fontName_scit.designspace -o variable --output-path $VF_DIR/$fontName_scit[$axes].ttf
 
 ##########################################
 

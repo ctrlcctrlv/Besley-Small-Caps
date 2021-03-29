@@ -4,6 +4,8 @@ set -e
 
 fontName="Besley"
 fontName_it="Besley-Italic"
+fontName_sc="BesleySC"
+fontName_scit="BesleySC-Italic"
 
 ##########################################
 
@@ -16,6 +18,8 @@ mkdir -p $TT_DIR
 
 fontmake -m designspace/$fontName.designspace -i -o ttf --output-dir $TT_DIR
 fontmake -m designspace/$fontName_it.designspace -i -o ttf --output-dir $TT_DIR
+fontmake -m designspace/$fontName_sc.designspace -i -o ttf --output-dir $TT_DIR
+fontmake -m designspace/$fontName_scit.designspace -i -o ttf --output-dir $TT_DIR
 
 ##########################################
 
